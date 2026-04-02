@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "updated": "2026-03-13",
+  "version": "2.0",
+  "updated": "2026-04-02",
   "description": "Selective High School Test - English Vocabulary word list",
   "words": [
     {
@@ -2752,6 +2752,256 @@
       "word": "support",
       "meaning": "To back up.",
       "example": "Support your claim."
+    },
+    {
+      "word": "abstruse",
+      "meaning": "Difficult to understand; obscure.",
+      "example": "The theory was so abstruse that few students could grasp it."
+    },
+    {
+      "word": "acquiesce",
+      "meaning": "To accept something reluctantly but without protest.",
+      "example": "He acquiesced to the decision despite his doubts."
+    },
+    {
+      "word": "alacrity",
+      "meaning": "Brisk and cheerful readiness.",
+      "example": "She accepted the challenge with alacrity."
+    },
+    {
+      "word": "anomaly",
+      "meaning": "Something that deviates from what is standard.",
+      "example": "The sudden drop in temperature was an anomaly."
+    },
+    {
+      "word": "antithesis",
+      "meaning": "A direct opposite.",
+      "example": "His actions were the antithesis of his words."
+    },
+    {
+      "word": "apathy",
+      "meaning": "Lack of interest or concern.",
+      "example": "Apathy towards studies can affect results."
+    },
+    {
+      "word": "arbitrary",
+      "meaning": "Based on random choice rather than reason.",
+      "example": "The rule seemed arbitrary and unfair."
+    },
+    {
+      "word": "arcane",
+      "meaning": "Understood by few; mysterious.",
+      "example": "The text was filled with arcane references."
+    },
+    {
+      "word": "assiduous",
+      "meaning": "Showing great care and perseverance.",
+      "example": "She was assiduous in completing her work."
+    },
+    {
+      "word": "austere",
+      "meaning": "Severe or strict in manner.",
+      "example": "The classroom had an austere atmosphere."
+    },
+    {
+      "word": "belligerent",
+      "meaning": "Hostile and aggressive.",
+      "example": "His belligerent attitude caused conflict."
+    },
+    {
+      "word": "benevolent",
+      "meaning": "Well-meaning and kind.",
+      "example": "The benevolent teacher helped every student."
+    },
+    {
+      "word": "candid",
+      "meaning": "Truthful and straightforward.",
+      "example": "She gave a candid response."
+    },
+    {
+      "word": "capricious",
+      "meaning": "Given to sudden changes in mood.",
+      "example": "The weather was capricious."
+    },
+    {
+      "word": "cogent",
+      "meaning": "Clear and convincing.",
+      "example": "He presented a cogent argument."
+    },
+    {
+      "word": "complacent",
+      "meaning": "Self-satisfied and unaware of danger.",
+      "example": "Complacent students often underperform."
+    },
+    {
+      "word": "conundrum",
+      "meaning": "A confusing problem.",
+      "example": "The puzzle was a real conundrum."
+    },
+    {
+      "word": "cryptic",
+      "meaning": "Having a hidden meaning.",
+      "example": "The message was cryptic."
+    },
+    {
+      "word": "deference",
+      "meaning": "Respectful submission.",
+      "example": "He showed deference to his teacher."
+    },
+    {
+      "word": "deleterious",
+      "meaning": "Harmful.",
+      "example": "Smoking has deleterious effects."
+    },
+    {
+      "word": "didactic",
+      "meaning": "Intended to teach.",
+      "example": "The story had a didactic tone."
+    },
+    {
+      "word": "disparate",
+      "meaning": "Essentially different.",
+      "example": "The ideas were disparate."
+    },
+    {
+      "word": "ebullient",
+      "meaning": "Cheerful and energetic.",
+      "example": "Her ebullient personality was infectious."
+    },
+    {
+      "word": "eclectic",
+      "meaning": "Deriving ideas from various sources.",
+      "example": "His taste in music is eclectic."
+    },
+    {
+      "word": "elucidate",
+      "meaning": "To make clear.",
+      "example": "The teacher elucidated the concept."
+    },
+    {
+      "word": "enigma",
+      "meaning": "A mystery.",
+      "example": "The case remains an enigma."
+    },
+    {
+      "word": "ephemeral",
+      "meaning": "Lasting a very short time.",
+      "example": "Beauty can be ephemeral."
+    },
+    {
+      "word": "equivocate",
+      "meaning": "To speak ambiguously.",
+      "example": "He equivocated when questioned."
+    },
+    {
+      "word": "esoteric",
+      "meaning": "Intended for a small audience.",
+      "example": "The lecture was esoteric."
+    },
+    {
+      "word": "exacerbate",
+      "meaning": "To make worse.",
+      "example": "Noise exacerbates stress."
+    },
+    {
+      "word": "fastidious",
+      "meaning": "Very attentive to detail.",
+      "example": "She is fastidious about her work."
+    },
+    {
+      "word": "fortuitous",
+      "meaning": "Happening by chance.",
+      "example": "Their meeting was fortuitous."
+    },
+    {
+      "word": "gregarious",
+      "meaning": "Sociable.",
+      "example": "He is gregarious and friendly."
+    },
+    {
+      "word": "hackneyed",
+      "meaning": "Overused and unoriginal.",
+      "example": "The phrase sounded hackneyed."
+    },
+    {
+      "word": "idiosyncratic",
+      "meaning": "Unique to an individual.",
+      "example": "His habits are idiosyncratic."
+    },
+    {
+      "word": "impecunious",
+      "meaning": "Having little money.",
+      "example": "The student was impecunious."
+    },
+    {
+      "word": "indolent",
+      "meaning": "Lazy.",
+      "example": "The indolent worker avoided tasks."
+    },
+    {
+      "word": "ineffable",
+      "meaning": "Too great to be expressed.",
+      "example": "The beauty was ineffable."
+    },
+    {
+      "word": "insidious",
+      "meaning": "Gradually harmful.",
+      "example": "The disease was insidious."
+    },
+    {
+      "word": "juxtapose",
+      "meaning": "To place side by side for contrast.",
+      "example": "The artist juxtaposed colours."
+    },
+    {
+      "word": "laconic",
+      "meaning": "Using few words.",
+      "example": "His reply was laconic."
+    },
+    {
+      "word": "magnanimous",
+      "meaning": "Generous and forgiving.",
+      "example": "She was magnanimous in victory."
+    },
+    {
+      "word": "meticulous",
+      "meaning": "Very careful and precise.",
+      "example": "He is meticulous in his work."
+    },
+    {
+      "word": "nefarious",
+      "meaning": "Wicked or criminal.",
+      "example": "The villain had nefarious plans."
+    },
+    {
+      "word": "obfuscate",
+      "meaning": "To make unclear.",
+      "example": "The explanation obfuscated the issue."
+    },
+    {
+      "word": "ostentatious",
+      "meaning": "Showy and pretentious.",
+      "example": "He wore ostentatious clothes."
+    },
+    {
+      "word": "paradox",
+      "meaning": "A statement that contradicts itself.",
+      "example": "The idea is a paradox."
+    },
+    {
+      "word": "perfunctory",
+      "meaning": "Done without interest.",
+      "example": "She gave a perfunctory response."
+    },
+    {
+      "word": "pragmatic",
+      "meaning": "Practical.",
+      "example": "He took a pragmatic approach."
+    },
+    {
+      "word": "quintessential",
+      "meaning": "The most typical example.",
+      "example": "She is the quintessential leader."
     }
   ]
 }
