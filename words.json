@@ -2152,6 +2152,606 @@
       "word": "phase",
       "meaning": "A stage.",
       "example": "Enter next phase."
+    },
+    {
+      "word": "adapt",
+      "meaning": "To adjust to new conditions.",
+      "example": "Students must adapt to new challenges."
+    },
+    {
+      "word": "adequate",
+      "meaning": "Enough or sufficient.",
+      "example": "The explanation was adequate."
+    },
+    {
+      "word": "adjacent",
+      "meaning": "Next to something.",
+      "example": "The park is adjacent to the school."
+    },
+    {
+      "word": "advantage",
+      "meaning": "A benefit or gain.",
+      "example": "Practice gives you an advantage."
+    },
+    {
+      "word": "analyse",
+      "meaning": "To examine closely.",
+      "example": "Analyse the question carefully."
+    },
+    {
+      "word": "annual",
+      "meaning": "Yearly.",
+      "example": "The event is held annually."
+    },
+    {
+      "word": "approach",
+      "meaning": "A way of dealing with something.",
+      "example": "Try a different approach."
+    },
+    {
+      "word": "aspect",
+      "meaning": "A part or feature.",
+      "example": "Consider every aspect."
+    },
+    {
+      "word": "assist",
+      "meaning": "To help.",
+      "example": "Teachers assist students."
+    },
+    {
+      "word": "assume",
+      "meaning": "To suppose something is true.",
+      "example": "Do not assume the answer."
+    },
+    {
+      "word": "aware",
+      "meaning": "Having knowledge of something.",
+      "example": "Be aware of the rules."
+    },
+    {
+      "word": "benefit",
+      "meaning": "A positive effect.",
+      "example": "Reading has many benefits."
+    },
+    {
+      "word": "brief",
+      "meaning": "Short in time or length.",
+      "example": "Give a brief summary."
+    },
+    {
+      "word": "capable",
+      "meaning": "Having ability.",
+      "example": "She is capable of success."
+    },
+    {
+      "word": "challenge",
+      "meaning": "A difficult task.",
+      "example": "The task is a challenge."
+    },
+    {
+      "word": "clarify",
+      "meaning": "To make clear.",
+      "example": "Clarify your answer."
+    },
+    {
+      "word": "combine",
+      "meaning": "To join together.",
+      "example": "Combine both ideas."
+    },
+    {
+      "word": "communicate",
+      "meaning": "To share information.",
+      "example": "Communicate clearly."
+    },
+    {
+      "word": "compare",
+      "meaning": "To find similarities.",
+      "example": "Compare the two texts."
+    },
+    {
+      "word": "complete",
+      "meaning": "To finish.",
+      "example": "Complete the task."
+    },
+    {
+      "word": "complex",
+      "meaning": "Complicated.",
+      "example": "The problem is complex."
+    },
+    {
+      "word": "compose",
+      "meaning": "To create writing.",
+      "example": "Compose an essay."
+    },
+    {
+      "word": "conclude",
+      "meaning": "To finish or decide.",
+      "example": "Conclude your argument."
+    },
+    {
+      "word": "conduct",
+      "meaning": "To organise.",
+      "example": "Conduct research."
+    },
+    {
+      "word": "confirm",
+      "meaning": "To verify.",
+      "example": "Confirm your answer."
+    },
+    {
+      "word": "connect",
+      "meaning": "To link.",
+      "example": "Connect ideas logically."
+    },
+    {
+      "word": "consider",
+      "meaning": "To think about.",
+      "example": "Consider all options."
+    },
+    {
+      "word": "construct",
+      "meaning": "To build.",
+      "example": "Construct a paragraph."
+    },
+    {
+      "word": "contain",
+      "meaning": "To include.",
+      "example": "The essay contains examples."
+    },
+    {
+      "word": "continue",
+      "meaning": "To keep going.",
+      "example": "Continue writing."
+    },
+    {
+      "word": "contrast",
+      "meaning": "To show differences.",
+      "example": "Contrast two ideas."
+    },
+    {
+      "word": "convince",
+      "meaning": "To persuade.",
+      "example": "Convince the reader."
+    },
+    {
+      "word": "create",
+      "meaning": "To make.",
+      "example": "Create a story."
+    },
+    {
+      "word": "decide",
+      "meaning": "To choose.",
+      "example": "Decide carefully."
+    },
+    {
+      "word": "describe",
+      "meaning": "To give details.",
+      "example": "Describe the setting."
+    },
+    {
+      "word": "develop",
+      "meaning": "To improve or expand.",
+      "example": "Develop your argument."
+    },
+    {
+      "word": "difference",
+      "meaning": "Not the same.",
+      "example": "Find the difference."
+    },
+    {
+      "word": "difficult",
+      "meaning": "Hard to do.",
+      "example": "This question is difficult."
+    },
+    {
+      "word": "direct",
+      "meaning": "Straightforward.",
+      "example": "Give a direct answer."
+    },
+    {
+      "word": "discuss",
+      "meaning": "To talk about.",
+      "example": "Discuss the topic."
+    },
+    {
+      "word": "display",
+      "meaning": "To show.",
+      "example": "Display your work."
+    },
+    {
+      "word": "effect",
+      "meaning": "A result.",
+      "example": "The effect was clear."
+    },
+    {
+      "word": "efficient",
+      "meaning": "Working well.",
+      "example": "Be efficient with time."
+    },
+    {
+      "word": "element",
+      "meaning": "A part.",
+      "example": "Each element matters."
+    },
+    {
+      "word": "emphasise",
+      "meaning": "To highlight.",
+      "example": "Emphasise key points."
+    },
+    {
+      "word": "encourage",
+      "meaning": "To support.",
+      "example": "Teachers encourage learning."
+    },
+    {
+      "word": "engage",
+      "meaning": "To involve.",
+      "example": "Engage the reader."
+    },
+    {
+      "word": "enhance",
+      "meaning": "To improve.",
+      "example": "Enhance your writing."
+    },
+    {
+      "word": "ensure",
+      "meaning": "To make certain.",
+      "example": "Ensure accuracy."
+    },
+    {
+      "word": "examine",
+      "meaning": "To inspect closely.",
+      "example": "Examine the text."
+    },
+    {
+      "word": "example",
+      "meaning": "Something that shows.",
+      "example": "Give an example."
+    },
+    {
+      "word": "explain",
+      "meaning": "To make clear.",
+      "example": "Explain your reasoning."
+    },
+    {
+      "word": "express",
+      "meaning": "To show thoughts.",
+      "example": "Express your ideas."
+    },
+    {
+      "word": "extend",
+      "meaning": "To make longer.",
+      "example": "Extend your answer."
+    },
+    {
+      "word": "feature",
+      "meaning": "A part.",
+      "example": "Identify a feature."
+    },
+    {
+      "word": "focus",
+      "meaning": "To concentrate.",
+      "example": "Focus on the topic."
+    },
+    {
+      "word": "function",
+      "meaning": "Purpose.",
+      "example": "Explain its function."
+    },
+    {
+      "word": "general",
+      "meaning": "Broad.",
+      "example": "Give a general idea."
+    },
+    {
+      "word": "identify",
+      "meaning": "To recognise.",
+      "example": "Identify the theme."
+    },
+    {
+      "word": "impact",
+      "meaning": "Strong effect.",
+      "example": "The impact was large."
+    },
+    {
+      "word": "include",
+      "meaning": "To contain.",
+      "example": "Include examples."
+    },
+    {
+      "word": "increase",
+      "meaning": "To grow.",
+      "example": "Scores increased."
+    },
+    {
+      "word": "indicate",
+      "meaning": "To show.",
+      "example": "Data indicates trends."
+    },
+    {
+      "word": "inform",
+      "meaning": "To tell.",
+      "example": "Inform the reader."
+    },
+    {
+      "word": "interest",
+      "meaning": "Curiosity.",
+      "example": "It creates interest."
+    },
+    {
+      "word": "interpret",
+      "meaning": "To explain meaning.",
+      "example": "Interpret the text."
+    },
+    {
+      "word": "introduce",
+      "meaning": "To present.",
+      "example": "Introduce the topic."
+    },
+    {
+      "word": "involve",
+      "meaning": "To include.",
+      "example": "The task involves writing."
+    },
+    {
+      "word": "issue",
+      "meaning": "A problem.",
+      "example": "Discuss the issue."
+    },
+    {
+      "word": "justify",
+      "meaning": "To give reasons.",
+      "example": "Justify your opinion."
+    },
+    {
+      "word": "knowledge",
+      "meaning": "Understanding.",
+      "example": "Show your knowledge."
+    },
+    {
+      "word": "link",
+      "meaning": "To connect.",
+      "example": "Link ideas together."
+    },
+    {
+      "word": "main",
+      "meaning": "Most important.",
+      "example": "Main idea is clear."
+    },
+    {
+      "word": "maintain",
+      "meaning": "To keep.",
+      "example": "Maintain focus."
+    },
+    {
+      "word": "method",
+      "meaning": "A way.",
+      "example": "Use a method."
+    },
+    {
+      "word": "model",
+      "meaning": "An example.",
+      "example": "Use a model answer."
+    },
+    {
+      "word": "modify",
+      "meaning": "To change.",
+      "example": "Modify your work."
+    },
+    {
+      "word": "observe",
+      "meaning": "To watch carefully.",
+      "example": "Observe details."
+    },
+    {
+      "word": "obtain",
+      "meaning": "To get.",
+      "example": "Obtain results."
+    },
+    {
+      "word": "occur",
+      "meaning": "To happen.",
+      "example": "Errors occur."
+    },
+    {
+      "word": "organise",
+      "meaning": "To arrange.",
+      "example": "Organise ideas."
+    },
+    {
+      "word": "outline",
+      "meaning": "A summary.",
+      "example": "Outline your plan."
+    },
+    {
+      "word": "overall",
+      "meaning": "In general.",
+      "example": "Overall result is good."
+    },
+    {
+      "word": "particular",
+      "meaning": "Specific.",
+      "example": "Focus on particular details."
+    },
+    {
+      "word": "pattern",
+      "meaning": "A repeated design.",
+      "example": "Identify patterns."
+    },
+    {
+      "word": "perform",
+      "meaning": "To carry out.",
+      "example": "Perform the task."
+    },
+    {
+      "word": "plan",
+      "meaning": "A method.",
+      "example": "Plan your writing."
+    },
+    {
+      "word": "position",
+      "meaning": "A viewpoint.",
+      "example": "State your position."
+    },
+    {
+      "word": "prepare",
+      "meaning": "To get ready.",
+      "example": "Prepare carefully."
+    },
+    {
+      "word": "present",
+      "meaning": "To show.",
+      "example": "Present your ideas."
+    },
+    {
+      "word": "process",
+      "meaning": "Steps taken.",
+      "example": "Follow the process."
+    },
+    {
+      "word": "produce",
+      "meaning": "To create.",
+      "example": "Produce a response."
+    },
+    {
+      "word": "progress",
+      "meaning": "Improvement.",
+      "example": "Show progress."
+    },
+    {
+      "word": "provide",
+      "meaning": "To give.",
+      "example": "Provide evidence."
+    },
+    {
+      "word": "purpose",
+      "meaning": "Reason.",
+      "example": "Explain the purpose."
+    },
+    {
+      "word": "range",
+      "meaning": "Variety.",
+      "example": "A wide range of ideas."
+    },
+    {
+      "word": "reason",
+      "meaning": "Cause.",
+      "example": "Give a reason."
+    },
+    {
+      "word": "recognise",
+      "meaning": "To identify.",
+      "example": "Recognise patterns."
+    },
+    {
+      "word": "record",
+      "meaning": "To note down.",
+      "example": "Record results."
+    },
+    {
+      "word": "refer",
+      "meaning": "To mention.",
+      "example": "Refer to the text."
+    },
+    {
+      "word": "reflect",
+      "meaning": "To think deeply.",
+      "example": "Reflect on learning."
+    },
+    {
+      "word": "relate",
+      "meaning": "To connect.",
+      "example": "Relate ideas."
+    },
+    {
+      "word": "remove",
+      "meaning": "To take away.",
+      "example": "Remove errors."
+    },
+    {
+      "word": "report",
+      "meaning": "To describe.",
+      "example": "Report findings."
+    },
+    {
+      "word": "represent",
+      "meaning": "To stand for.",
+      "example": "Symbols represent ideas."
+    },
+    {
+      "word": "require",
+      "meaning": "To need.",
+      "example": "Tasks require effort."
+    },
+    {
+      "word": "respond",
+      "meaning": "To reply.",
+      "example": "Respond clearly."
+    },
+    {
+      "word": "result",
+      "meaning": "Outcome.",
+      "example": "The result is clear."
+    },
+    {
+      "word": "review",
+      "meaning": "To look again.",
+      "example": "Review your work."
+    },
+    {
+      "word": "revise",
+      "meaning": "To improve.",
+      "example": "Revise your writing."
+    },
+    {
+      "word": "select",
+      "meaning": "To choose.",
+      "example": "Select the best answer."
+    },
+    {
+      "word": "sequence",
+      "meaning": "Order.",
+      "example": "Follow the sequence."
+    },
+    {
+      "word": "show",
+      "meaning": "To display.",
+      "example": "Show your work."
+    },
+    {
+      "word": "similar",
+      "meaning": "Alike.",
+      "example": "Ideas are similar."
+    },
+    {
+      "word": "solve",
+      "meaning": "To find answer.",
+      "example": "Solve the problem."
+    },
+    {
+      "word": "state",
+      "meaning": "To express.",
+      "example": "State your opinion."
+    },
+    {
+      "word": "structure",
+      "meaning": "Arrangement.",
+      "example": "Structure your essay."
+    },
+    {
+      "word": "suggest",
+      "meaning": "To propose.",
+      "example": "Suggest a solution."
+    },
+    {
+      "word": "summarise",
+      "meaning": "To shorten.",
+      "example": "Summarise the text."
+    },
+    {
+      "word": "support",
+      "meaning": "To back up.",
+      "example": "Support your claim."
     }
   ]
 }
